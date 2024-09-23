@@ -427,8 +427,8 @@ select {
   border-radius: var(--round-lg);
   -webkit-box-shadow: 0.25em 0.3em 1em hsl(var(--muted) / 0.2);
   box-shadow: 0.25em 0.3em 1em hsl(var(--muted) / 0.2);
-  border-top: 0.15em solid white;
-  border-left: 0.15em solid white;
+  border-top: 0.15em solid rgb(188, 202, 209);
+  border-left: 0.15em solid rgb(188, 202, 209);
   border-right: 0.15em solid hsl(var(--bkg));
   border-bottom: 0.15em solid hsl(var(--bkg));
 }
